@@ -21,8 +21,6 @@ const Navbar: React.FC = () => {
     <nav className="bg-rmoda-black text-white sticky top-0 z-40 shadow-md">
       <div className="container-custom py-4 flex justify-between items-center">
         <div className="flex items-center space-x-2">
-          <Scissors className="text-rmoda-red" size={24} />
-          <Shirt className="text-rmoda-purple" size={24} />
           <span className="text-xl font-bold">Rmoda_masculinajp</span>
         </div>
 

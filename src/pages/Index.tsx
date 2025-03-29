@@ -15,8 +15,8 @@ const Index: React.FC = () => {
       <main className="flex-grow">
         <Hero />
         <Services />
-        <Clothing />
         <Gallery />
+        <Clothing />
       </main>
       <Footer />
       <WhatsAppButton phoneNumber="5583999999999" />
